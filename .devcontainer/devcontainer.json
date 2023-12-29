@@ -8,7 +8,9 @@
 				"GitHub.copilot-chat",
 				"ritwickdey.LiveServer",
 				"ms-vsliveshare.vsliveshare",
-				"rvest.vs-code-prettier-eslint"
+				"rvest.vs-code-prettier-eslint",
+				"eamodio.gitlens",
+				"DavidAnson.vscode-markdownlint"
 			]
 		}
 	}
